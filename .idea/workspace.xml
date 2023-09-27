@@ -5,18 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73e9db92-2e01-49cb-98b9-846de50ce526" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AulasP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula05b/Aula05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula05b/ContaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula06b/Aula06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula06b/Controlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula06b/ControleRemoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula07bE08b/ControleLuta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula07bE08b/Luta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula07bE08b/Lutador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula07bE08b/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula09b_Desafio/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula09b_Desafio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula09b_Desafio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula09b_Desafio/Publicacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,10 +55,32 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\krase\Documents\MeusProjetos\Poo\AulasP\src\Aula07bE08b" />
+      <recent name="D:\Users\krase\Documents\MeusProjetos\Poo\AulasP\src\Aula06b" />
+      <recent name="D:\Users\krase\Documents\MeusProjetos\Poo\AulasP\src\Aula05b" />
+      <recent name="D:\Users\krase\Documents\MeusProjetos\Poo\AulasP\src" />
+      <recent name="D:\Users\krase\Documents\MeusProjetos\Poo\AulasP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Aula09b_Desafio.Main">
+    <configuration name="Aula09b_Desafio.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula09b_Desafio.Main" />
+      <module name="PraticaProgramacaoOrientadaAObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula09b_Desafio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula07bE08b.Main" />
-      <module name="AulasP" />
+      <module name="PraticaProgramacaoOrientadaAObjetos" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Aula07bE08b.*" />
@@ -52,8 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PraticaProgramacaoOrientadaAObjetos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PraticaProgramacaoOrientadaAObjetos" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula09b_Desafio.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
