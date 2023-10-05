@@ -8,8 +8,15 @@ public class Main {
         Funcionario p4 = new Funcionario();
         Visitante v1 = new Visitante(); // Herança de implementação
         Aluno a1 = new Aluno();
-
         Bolsista b1 = new Bolsista();
+        Tecnico t1 = new Tecnico();
+
+        t1.setNome("Mario");
+        t1.setRegistroProfissional("Tecnico Informatica");
+        t1.setCurso("Informatica");
+        t1.setMatr(1113);
+        t1.setIdade(17);
+        t1.setSexo("M");
 
         b1.setNome("João");
         b1.setMatr(1112);
