@@ -1,7 +1,7 @@
 package Aula10b;
 
 //Arvore de herença funcionando nessa classe
-public class Bolsista extends Aluno{
+public final class Bolsista extends Aluno{ //classe final não pode ter mais filhos -> Classe folha
     private float bolsa;
     public void renovarBolsa() {
         System.out.println("Renovando bolsa de " + this.nome);

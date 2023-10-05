@@ -15,7 +15,7 @@ public class Main {
         b1.setMatr(1112);
         b1.setBolsa(12.50f);
         b1.setSexo("M");
-        b1.pagarMensalidade();
+        b1.pagarMensalidade(); // metodo está sobreposto, pagarMnsalidade de um bolsista é diferente de pagarMensalidade de um Aluno.
 
         a1.setNome("Claudio");
         a1.setMatr(1111);
