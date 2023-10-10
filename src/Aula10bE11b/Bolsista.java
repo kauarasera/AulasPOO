@@ -1,4 +1,4 @@
-package Aula10b;
+package Aula10bE11b;
 
 //Arvore de herença funcionando nessa classe
 public final class Bolsista extends Aluno{ //classe final não pode ter mais filhos -> Classe folha

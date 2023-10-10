@@ -1,6 +1,4 @@
-package Aula10b;
-
-import java.util.SplittableRandom;
+package Aula10bE11b;
 
 public class Aluno extends Pessoa {
     private int matr;

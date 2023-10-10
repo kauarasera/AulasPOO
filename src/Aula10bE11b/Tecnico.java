@@ -1,4 +1,4 @@
-package Aula10b;
+package Aula10bE11b;
 
 public class Tecnico extends Aluno{
     private String registroProfissional;

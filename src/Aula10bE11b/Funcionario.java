@@ -1,4 +1,4 @@
-package Aula10b;
+package Aula10bE11b;
 
 public class Funcionario extends Pessoa {
 
