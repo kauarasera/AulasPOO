@@ -1,4 +1,4 @@
-package Aula14b;
+package Aula14bE15b;
 
 public class Video implements AcoesVideo{
     private String titulo;
@@ -28,7 +28,8 @@ public class Video implements AcoesVideo{
     }
 
     public void setAvaliacao(int avaliacao) {
-        this.avaliacao = avaliacao;
+        int nova = (this.avaliacao + avaliacao)/this.views; // media de avaliações que o video tem
+        this.avaliacao = nova;
     }
 
     public int getViews() {

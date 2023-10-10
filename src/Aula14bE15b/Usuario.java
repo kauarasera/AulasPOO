@@ -1,4 +1,4 @@
-package Aula14b;
+package Aula14bE15b;
 
 public class Usuario extends Pessoa{
     private String login;
@@ -16,6 +16,22 @@ public class Usuario extends Pessoa{
     @Override
     protected void ganharExp() {
         this.experiencia ++;
+    }
+
+    public String getLogin() {
+        return login;
+    }
+
+    public void setLogin(String login) {
+        this.login = login;
+    }
+
+    public int getTotAssistido() {
+        return totAssistido;
+    }
+
+    public void setTotAssistido(int totAssistido) {
+        this.totAssistido = totAssistido;
     }
 
     @Override

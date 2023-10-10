@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73e9db92-2e01-49cb-98b9-846de50ce526" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aula14b/AcoesVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula14b/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula14b/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula14b/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula14b/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula14bE15b/Visualizacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula14b/AcoesVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula14bE15b/AcoesVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula14b/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula14bE15b/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula14b/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula14bE15b/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula14b/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula14bE15b/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula14b/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula14bE15b/Video.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula14b.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula14b.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula14bE15b.Main" />
       <module name="PraticaProgramacaoOrientadaAObjetos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aula14b.*" />
+          <option name="PATTERN" value="Aula14bE15b.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
